@@ -1,5 +1,5 @@
-# Trie Data Structure :tw-1f332:
-#### *¿Qué es?* :tw-1f631:
+# Trie Data Structure 
+#### *¿Qué es?* 
 
 También conocido como *Árbol de Prefijos*, es una estructura de datos útil para resolver problemas asociados con el almacenamiento de strings con la finalidad de poder realizar operaciones como:
 - consultar
@@ -13,7 +13,7 @@ Para implementar esta estructura podemos utilizar un **Array** o **Map**. Pero c
 
 [![TRIE](https://media.vlpt.us/images/roo333/post/d29f3566-596d-40ae-868e-9322bba44ed6/Trie.png "TRIE")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40roo333%2FTrie-8dfhae1g&psig=AOvVaw0CDrqQaoP1XJb4gyCiAVXy&ust=1629225299001000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiJxcWXtvICFQAAAAAdAAAAABAI "TRIE")
 
-#### *Partes del Árbol Trie* :tw-267b:
+#### *Partes del Árbol Trie* 
 El árbol de Trie tiene algunas características:
 - El nodo raíz no contiene caracteres.
 - Desde el nodo raíz hasta cierto nodo, los caracteres que pasan por la ruta se conectan para formar la cadena para así armar una palabra.
@@ -32,7 +32,7 @@ De manera similar, comenzando desde la raíz y atravesando el árbol trie hacia 
 3. Proceso de eliminación
 Durante la operación de eliminación, eliminamos la clave de abajo hacia arriba usando recursividad. Si la clave presente como clave única no es prefijo de otra clave en trie. Se eliminan todos los nodos.
 
-#### *Algunas aplicaciones* :tw-1f680:
+#### *Algunas aplicaciones* 
 
 - Búsqueda de cadenas
 - El prefijo común más largo de una cadena
