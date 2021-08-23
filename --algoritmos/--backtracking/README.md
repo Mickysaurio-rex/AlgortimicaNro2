@@ -18,6 +18,7 @@ Los problemas que deben satisfacer un determinado tipo de restricciones son prob
 -  [Queens](queens.cpp) - _C++_
 
 ## *Refrencias*
+
 -  [Recursion And Backtracking](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
 -  [Vuelta Atras(Backtracking)](https://www.ecured.cu/Vuelta_atr%C3%A1s_(backtracking))
 - [Backtracking](https://www.ciberaula.com/cursos/java/backtracking.php)
