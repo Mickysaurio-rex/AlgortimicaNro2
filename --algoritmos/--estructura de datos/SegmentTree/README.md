@@ -10,3 +10,15 @@ Un *árbol de segmentos* es una estructura de datos que se utiliza para almacena
 Estos dos toman log(n)log(n) time, donde n es el número de elementos del árbol de segmentos.
 
 [![SegmentTree](https://he-s3.s3.amazonaws.com/media/uploads/eec15d3.jpg "SegmentTree")](https://he-s3.s3.amazonaws.com/media/uploads/eec15d3.jpg "SegmentTree")
+
+## *Código base*
+
+-  [Segmente Tree](segmentTree.cpp) - _C++_
+
+## *Ejercicios*
+
+-  [Cambio y Multiplicacion](cambioYmultiplicacion.cpp) - _C++_
+
+## *Refrencias*
+-  [Turiales Arbol de Segmento](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+-  [Efficent and easy segment tree](https://codeforces.com/blog/entry/18051)
