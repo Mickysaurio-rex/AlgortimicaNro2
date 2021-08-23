@@ -1,5 +1,5 @@
 # BIT (Binary indexed tree) 
-#### *¿Qué es?* 
+## *¿Qué es?* 
 
 También conocido como *Árbol de Fenwick*, Es una estructura de datos muy eficiente para calcular sumas acumulativas. Principalmente resuelve el problema de equilibrar la eficiencia de la suma del prefijo con la eficiencia de modificar un elemento. 
 
@@ -8,3 +8,11 @@ También conocido como *Árbol de Fenwick*, Es una estructura de datos muy efici
 Es muy fácil para manejar un array de suma acumulativa y de este array de suma acumulativa es posible calcular la suma de las frecuencias en un cierto rango en el orden de O (log (n)). Permite hacer este procedimiento además con cualquier operación asociativa.
 
 [![Arbol de fenwik](https://prodeportiva.files.wordpress.com/2013/02/bit2d.png?w=584 "Arbol de fenwik")](http://prodeportiva.files.wordpress.com/2013/02/bit2d.png?w=584 "Arbol de fenwik")
+
+## *Código base*
+
+-  [BIT](bit.cpp) - _C++_
+
+## *Refrencias*
+-  [BIT o Arbol de Fenwic](https://prodeportiva.wordpress.com/2013/02/17/arbol-de-fenwick/)
+
