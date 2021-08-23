@@ -8,3 +8,12 @@ También llamada Disjoint-set Union, es una estructura que nos permite manejar c
 * Unión: Unir dos subconjuntos en un solo subconjunto.
 
 [![UnionFind](https://i.ytimg.com/vi/0jNmHPfA_yE/maxresdefault.jpg "UnionFind")](https://i.ytimg.com/vi/0jNmHPfA_yE/maxresdefault.jpg "UnionFind")
+
+## *Código base*
+
+-  [Union Find](unionFind.cpp) - _C++_
+-  [Union Find Version Clase](unionFindVersionClase.cpp) - _C++_
+
+## *Refrencias*
+-  [Algoritmos-OIA](http://wiki.oia.unsam.edu.ar/algoritmos-oia/estructuras/union-find)
+-  [Disjoint](https://www.geeksforgeeks.org/union-find/)
