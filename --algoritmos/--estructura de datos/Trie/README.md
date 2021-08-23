@@ -40,3 +40,13 @@ Durante la operación de eliminación, eliminamos la clave de abajo hacia arriba
 - Como estructura auxiliar para otras estructuras de datos y algoritmos.
 - Estadísticas de frecuencia de palabras
 - Prefijo coincidente para búsqueda de cadenas 
+
+## *Código base*
+
+-  [Trie con Array](TrieArray.cpp) - _C++_
+-  [Trie con Map](TrieMap.cpp) - _C++_
+
+## *Refrencias*
+-  [Explicacion detallada del Arbol Trie y su aplicacion](https://programmerclick.com/article/54031998581/)
+-  [Trie(Delete)](https://tutorialspoint.dev/data-structure/advanced-data-structures/trie-delete)
+-  [Trie Data Structure](https://www.ideserve.co.in/learn/trie-delete)
