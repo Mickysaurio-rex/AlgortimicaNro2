@@ -1,4 +1,4 @@
-# Backtracking  
+# Backtracking
 #### *¿Qué es?* 
 
 La técnica de *backtracking* está muy asociada a la recursividad, o mas propiamente, a la estructura recursiva de la mayoría de tipos de datos: listas, árboles, etc. Consiste básicamente en :
